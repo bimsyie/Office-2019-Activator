@@ -12,16 +12,3 @@ irm https://get.activated.win | iex
 ```
 3.   You will see the activation options. Choose (1) HWID for Windows activation. Choose (2) Ohook for Office activation.
 4.   That's all.
-
-<details>
-  <summary>More options</summary>
-
-- Alternatively, you can use the following (It will be deprecated in the future.)
-```
-irm https://massgrave.dev/get | iex
-```
-- The URL `get.activated.win` might be blocked by some DNS services because it is a new domain.
-
-</details>
-
----
